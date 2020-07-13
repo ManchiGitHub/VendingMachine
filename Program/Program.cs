@@ -6,7 +6,7 @@
     {
         public static void Main(string[] args)
         {
-            // Run program
+            // Run program.
             Controller.Run();
         }
     }
